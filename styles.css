@@ -183,6 +183,8 @@ body {
 .img-missao,
 .img-visao {
   overflow: hidden;
+  height: 450px;
+
 }
 
 .img-missao img,
