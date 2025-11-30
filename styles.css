@@ -192,6 +192,10 @@ body {
   object-fit: cover;
   display: block;
 }
+.img-missao img {
+  object-position: center 35%;
+}
+
 
 
 @media (max-width: 900px) {
